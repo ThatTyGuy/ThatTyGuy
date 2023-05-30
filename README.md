@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there. This page is currently in the works. Hang tight for a finished project! 👋
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ThatTyGuy)](https://git.io/streak-stats)
+
 
 <!--
 **ThatTyGuy/ThatTyGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

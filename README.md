@@ -1,7 +1,5 @@
 <h3 align="center">A passionate web developer from the United States</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thattyguy&label=Profile%20views&color=0e75b6&style=flat" alt="thattyguy" /> </p>
-
 - 🌱 I’m currently learning **Codecademy Curriculum**
 
 - 📫 How to reach me **tsunderland92@gmail.com**

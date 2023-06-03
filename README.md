@@ -1,4 +1,4 @@
-<h3 align="center">A passionate web developer from the United States</h3>
+A passionate web developer from the United States
 
 - 🌱 I’m currently learning **Codecademy Curriculum**
 

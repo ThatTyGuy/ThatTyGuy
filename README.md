@@ -1,6 +1,6 @@
 A passionate web developer from the United States
 
-- 🌱 I’m currently learning **Codecademy Curriculum**
+- 🌱 I’m currently learning the **Codecademy Curriculum**
 
 - 📫 How to reach me **tsunderland92@gmail.com**
 

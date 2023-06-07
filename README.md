@@ -1,6 +1,7 @@
 A passionate web developer from the United States
 
 - 🌱 I’m currently learning the **Codecademy Curriculum**
+- [Visit my profile](https://www.codecademy.com/profiles/ThatTyGuy_)
 
 - 📫 Reach me @ **tsunderland92@gmail.com**
 

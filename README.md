@@ -11,7 +11,7 @@ A passionate full-stack web developer from the United States
   <ul>
   <li>I own a #1 Dad hat</li>
   <li>I have 3 kiddos</li>
-  <li>1 doggo!</li>
+  <li>I have 1 doggo!</li>
   </ul>
 
 <h3 align="left">Languages and Tools:</h3>

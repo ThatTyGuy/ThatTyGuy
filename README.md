@@ -12,6 +12,7 @@ A passionate full-stack web developer from the United States
   <li>I own a #1 Dad hat</li>
   <li>I have 3 kiddos</li>
   <li>I have 1 doggo!</li>
+  <li>I was born in California</li>
   </ul>
 
 <h3 align="left">Languages and Tools:</h3>

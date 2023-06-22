@@ -3,7 +3,6 @@ A passionate full-stack web developer from the United States
 - 🌱 I’m currently learning the [Codecademy Curriculum](https://www.codecademy.com/learn), [freeCodeCamp Curriculum](https://www.freecodecamp.org/) and the dabbling with [Sololearn](https://www.sololearn.com/) when I'm on the go.
 - [FreeCodeCamp Profile](https://www.freecodecamp.org/That_Ty_Guy_)
 - [Codecademy Profile](https://www.codecademy.com/profiles/ThatTyGuy_)
-- [Sololearn Profile](https://www.sololearn.com/profile/29420465)
 
 - 📫 Reach out to me @ **tsunderland92@gmail.com**
 

@@ -3,7 +3,7 @@ A passionate full-stack web developer from the United States
 - 🌱 I’m currently learning the [Codecademy Curriculum](https://www.codecademy.com/learn)
 - [Codecademy Profile](https://www.codecademy.com/profiles/ThatTyGuy_)
 
-- 📫 Reach out to me @ **tsunderland92@gmail.com**
+- 📫 Reach me @ **tsunderland92@gmail.com**
 
 - ⚡ Some fun facts about me are:
   <ul>

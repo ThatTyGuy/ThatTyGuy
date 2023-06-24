@@ -7,7 +7,7 @@ A passionate full-stack web developer from the United States
 
 - ⚡ Some fun facts about me are:
   <ul>
-  <li>I own a **#1** Dad hat</li>
+  <li>I own a <b>#1</b> Dad hat</li>
   <li>I have 3 kiddos</li>
   <li>I have 1 doggo!</li>
   <li>I was born in California</li>

@@ -9,7 +9,7 @@ A passionate full-stack web developer from the United States
   <ul>
   <li>I own a <b>#1</b> Dad hat</li>
   <li>I have 3 kiddos</li>
-  <li>I have 1 doggo!</li>
+  <li>I have 1 🐕!</li>
   <li>I was born in California</li>
   </ul>
 

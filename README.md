@@ -1,4 +1,4 @@
-A passionate full-stack web developer from the United States
+A passionate full-stack web developer in the making from the United States
 
 - 🌱 I’m currently learning the [Codecademy Curriculum](https://www.codecademy.com/learn)
 - [Codecademy Profile](https://www.codecademy.com/profiles/ThatTyGuy_)

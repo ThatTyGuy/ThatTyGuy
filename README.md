@@ -1,7 +1,7 @@
 A passionate full-stack web developer in the making from the United States
 
-- 🌱 I’m currently learning the [Codecademy Curriculum](https://www.codecademy.com/learn)
-- [Codecademy Profile](https://www.codecademy.com/profiles/ThatTyGuy_)
+- 🌱 I’m currently learning the [Codecademy Curriculum](https://www.codecademy.com/learn) and the [freeCodeCamp Cirriculum](https://www.freecodecamp.org/)
+- [Codecademy Profile](https://www.codecademy.com/profiles/ThatTyGuy_) | [freeCodeCamp Profile](https://www.freecodecamp.org/That_Ty_Guy_)
 
 - 📫 Connect with me @ **tsunderland92@gmail.com**
 
